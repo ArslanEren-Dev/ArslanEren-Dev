@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslaneren-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arslaneren-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslaneren-dev" alt="arslaneren-dev" /></a> </p>
-
 - 🔭 I’m currently working on **N/A**
 
 - 🌱 I’m currently learning **C# and Python <3**
