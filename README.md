@@ -29,6 +29,16 @@
 
 **[Truck TMS](https://github.com/ArslanEren-Dev/truck-tms)**: an open-source desktop TMS for US trucking, available in English and Turkish. It tracks trucks, drivers and loads, works out weekly statements, and covers maintenance, expenses, Excel import and charts. It is built with Python, PySide6 and SQLite.
 
+**New in 0.6:**
+- 💵 invoices and receivables, with quick pay / factoring and an aging view
+- 🛡️ compliance reminders for CDL, medical cards, registration, insurance and UCR
+- 🗺️ an IFTA quarterly worksheet
+- 🔔 update notifications
+- 📊 redesigned animated charts
+- ⚡ up to 30× faster on large fleets
+
+[See the changelog →](https://github.com/ArslanEren-Dev/truck-tms/blob/main/CHANGELOG.md)
+
 <p>
   <a href="https://github.com/ArslanEren-Dev/truck-tms/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20.exe-0e75b6?style=for-the-badge&logo=windows&logoColor=white" alt="Download" /></a>
   <a href="https://arslaneren-dev.github.io/truck-tms/"><img src="https://img.shields.io/badge/Website-Visit-38bdf8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
