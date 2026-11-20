@@ -19,6 +19,8 @@
 - 🎨 I make **pixel art** and play with **Blender** as a hobby
 - 💬 Ask me about: *why games?* 😄
 
+> 🇹🇷 Merhaba! Türkiye'den bir yazılım öğrencisiyim. Python ile masaüstü uygulamaları geliştiriyor, C# ve Unity ile oyun geliştirmeyi öğreniyorum. Projelerim açık kaynak; Türkçe ya da İngilizce yazabilirsiniz.
+
 ## 🚀 Featured project
 
 <a href="https://github.com/ArslanEren-Dev/truck-tms">
@@ -32,6 +34,17 @@
   <a href="https://arslaneren-dev.github.io/truck-tms/"><img src="https://img.shields.io/badge/Website-Visit-38bdf8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/ArslanEren-Dev/truck-tms"><img src="https://img.shields.io/github/stars/ArslanEren-Dev/truck-tms?style=for-the-badge&logo=github&label=Stars&color=555" alt="Stars" /></a>
 </p>
+
+<p>
+  <a href="https://github.com/ArslanEren-Dev/truck-tms/releases/latest"><img src="https://img.shields.io/github/v/release/ArslanEren-Dev/truck-tms?label=latest%20release&color=0e75b6" alt="Latest release" /></a>
+  <a href="https://github.com/ArslanEren-Dev/truck-tms/actions/workflows/tests.yml"><img src="https://github.com/ArslanEren-Dev/truck-tms/actions/workflows/tests.yml/badge.svg" alt="Tests" /></a>
+  <img src="https://img.shields.io/badge/license-MIT-0e75b6" alt="MIT license" />
+  <img src="https://img.shields.io/badge/English%20%7C%20T%C3%BCrk%C3%A7e-0e75b6" alt="English and Turkish" />
+</p>
+
+<a href="https://github.com/ArslanEren-Dev/truck-tms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArslanEren-Dev&repo=truck-tms&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="truck-tms repository card" />
+</a>
 
 ## 🛠️ Languages & tools
 
