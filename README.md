@@ -8,7 +8,7 @@
   <a href="#-truck-tms"><b>🚚 Truck TMS</b></a> ·
   <a href="#-fosil-tepesi"><b>🦖 Fosil Tepesi</b></a> ·
   <a href="#-about-me--hakkımda"><b>👋 About · Hakkımda</b></a> ·
-  <a href="#-get-in-touch--iletişim"><b>💬 Contact · İletişim</b></a>
+  <a href="#-get-in-touch--bana-ulaşın"><b>💬 Contact · Bana ulaşın</b></a>
 </p>
 
 <p align="center">
@@ -165,7 +165,7 @@ bir Triceratops büyütün, ona binip vahşi doğayı keşfedin, balık tutun ve
   <img src="https://skillicons.dev/icons?i=python,cs,qt,sqlite,unity,blender,git,github,vscode&perline=9" alt="Python, C#, Qt, SQLite, Unity, Blender, Git, GitHub, VS Code" />
 </p>
 
-## 💬 Get in touch · İletişim
+## 💬 Get in touch · Bana ulaşın
 
 <p>
   <a href="mailto:arslaneren.dev@gmail.com"><img src="https://img.shields.io/badge/Email-arslaneren.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
