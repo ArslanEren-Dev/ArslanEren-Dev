@@ -63,8 +63,8 @@ Verileriniz kendi bilgisayarınızda kalır: **hesap yok, abonelik yok, bulut yo
 
 | | 🇬🇧 English | 🇹🇷 Türkçe |
 |:-:|---|---|
-| **1** | [Download **TruckTMS.exe**](https://github.com/ArslanEren-Dev/truck-tms/releases/latest) from the latest release. | Son sürümden [**TruckTMS.exe**'yi indirin](https://github.com/ArslanEren-Dev/truck-tms/releases/latest). |
-| **2** | Double-click it. Nothing to install. | Çift tıklayın. Kurulum gerekmez. |
+| **1** | From the [latest release](https://github.com/ArslanEren-Dev/truck-tms/releases/latest), download **TruckTMS-Setup.exe** (installer) or **TruckTMS.exe** (portable). | [Son sürümden](https://github.com/ArslanEren-Dev/truck-tms/releases/latest) **TruckTMS-Setup.exe**'yi (kurulum) ya da **TruckTMS.exe**'yi (taşınabilir) indirin. |
+| **2** | Run it. The installer adds Start menu and desktop shortcuts; the portable exe needs nothing. | Çalıştırın. Kurulum Başlat menüsü ve masaüstü kısayolu ekler; taşınabilir exe hiçbir şey istemez. |
 | **3** | If Windows shows a blue SmartScreen box, click **More info → Run anyway**. | Windows mavi bir SmartScreen uyarısı gösterirse **Ek bilgi → Yine de çalıştır**'a tıklayın. |
 
 <table>
@@ -73,7 +73,7 @@ Verileriniz kendi bilgisayarınızda kalır: **hesap yok, abonelik yok, bulut yo
 <td width="50%"><img src="https://raw.githubusercontent.com/ArslanEren-Dev/truck-tms/main/docs/screenshots/statement.png" alt="Weekly statement" /><p align="center"><sub>Weekly statement · Haftalık döküm</sub></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="https://raw.githubusercontent.com/ArslanEren-Dev/truck-tms/main/docs/screenshots/invoices.png" alt="Invoices" /><p align="center"><sub>Invoices · Faturalar</sub></p></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/ArslanEren-Dev/truck-tms/main/docs/screenshots/board.png" alt="Load board" /><p align="center"><sub>Load board · Yük panosu</sub></p></td>
 <td width="50%"><img src="https://raw.githubusercontent.com/ArslanEren-Dev/truck-tms/main/docs/screenshots/dark_tr.png" alt="Dark theme in Turkish" /><p align="center"><sub>Dark theme in Turkish · Koyu tema, Türkçe</sub></p></td>
 </tr>
 </table>
@@ -87,11 +87,13 @@ Verileriniz kendi bilgisayarınızda kalır: **hesap yok, abonelik yok, bulut yo
 | 🚛 Trucks with plate history, odometer and owner | 🚛 Plaka geçmişi, kilometre ve sahibiyle tırlar |
 | 👤 Drivers with % / per-mile / weekly pay | 👤 Yüzde, mil başı veya haftalık maaşlı sürücüler |
 | 📦 Loads with profit per load and rate per mile | 📦 Yük başına kâr ve mil başı ücretle yükler |
+| 🗂️ Drag-and-drop load board and a Today list | 🗂️ Sürükle-bırak yük panosu ve Bugün listesi |
 | 🧾 Weekly owner & driver statements as PDF | 🧾 Sahip ve sürücü için PDF haftalık dökümler |
 | 💵 Invoices, receivables, quick pay / factoring | 💵 Faturalar, alacaklar, hızlı ödeme / factoring |
 | 🗺️ IFTA quarterly worksheet | 🗺️ Üç aylık IFTA çalışma sayfası |
 | 🛡️ CDL, medical card, insurance and UCR reminders | 🛡️ CDL, sağlık kartı, sigorta ve UCR hatırlatmaları |
 | 🔧 Maintenance, expenses, Excel import, charts | 🔧 Bakım, giderler, Excel'den aktarma, grafikler |
+| 💿 Windows installer or a portable exe | 💿 Windows kurulum programı ya da taşınabilir exe |
 
 [Changelog · Değişiklikler →](https://github.com/ArslanEren-Dev/truck-tms/blob/main/CHANGELOG.md)
 
