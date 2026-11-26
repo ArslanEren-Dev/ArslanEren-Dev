@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=180&section=header&text=Arslan%20Eren&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20C%23%20%C2%B7%20Unity%20%E2%80%94%20T%C3%BCrkiye&descSize=17&descAlignY=58" width="100%" alt="Arslan Eren" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=180&section=header&text=Arslan%20Eren&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Pixemith%20%C2%B7%20Truck%20TMS%20%C2%B7%20Python%20%C2%B7%20C%23%20%C2%B7%20JS%20%E2%80%94%20T%C3%BCrkiye&descSize=17&descAlignY=58" width="100%" alt="Arslan Eren" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Free+%26+open-source+desktop+apps;%C3%9Ccretsiz+ve+a%C3%A7%C4%B1k+kaynak+masa%C3%BCst%C3%BC+uygulamalar;Pixemith:+a+pixel-art+studio+in+your+browser;Pixemith:+taray%C4%B1c%C4%B1da+piksel+sanat+st%C3%BCdyosu;Making+a+pixel-art+dinosaur+farm+game;Piksel+sanat+bir+dinozor+%C3%A7iftli%C4%9Fi+oyunu+yap%C4%B1yorum" alt="Free and open-source apps · Ücretsiz ve açık kaynak uygulamalar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Pixemith:+a+pixel-art+studio+in+your+browser;Pixemith:+taray%C4%B1c%C4%B1da+piksel+sanat+st%C3%BCdyosu;Free+tools+for+game+developers;Oyun+geli%C5%9Ftiricileri+i%C3%A7in+%C3%BCcretsiz+ara%C3%A7lar;Making+a+pixel-art+dinosaur+farm+game;Piksel+sanat+bir+dinozor+%C3%A7iftli%C4%9Fi+oyunu+yap%C4%B1yorum" alt="Pixemith: a pixel-art studio in your browser · Tarayıcıda piksel sanat stüdyosu" />
 </p>
 
 <p align="center">
-  <a href="#-truck-tms"><b>🚚 Truck TMS</b></a> ·
   <a href="#-pixemith"><b>🎨 Pixemith</b></a> ·
+  <a href="#-truck-tms"><b>🚚 Truck TMS</b></a> ·
   <a href="#-fosil-tepesi"><b>🦖 Fosil Tepesi</b></a> ·
   <a href="#-about-me--hakkımda"><b>👋 About · Hakkımda</b></a> ·
   <a href="#-get-in-touch--bana-ulaşın"><b>💬 Contact · Bana ulaşın</b></a>
@@ -16,6 +16,47 @@
   <img src="https://komarev.com/ghpvc/?username=arslaneren-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ArslanEren-Dev?tab=followers"><img src="https://img.shields.io/github/followers/ArslanEren-Dev?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
   <a href="https://github.com/ArslanEren-Dev/truck-tms/stargazers"><img src="https://img.shields.io/github/stars/ArslanEren-Dev/truck-tms?label=Truck%20TMS%20stars&style=flat&color=0e75b6" alt="Truck TMS stars" /></a>
+</p>
+
+<br>
+
+## 🎨 Pixemith
+
+<a href="https://pixemith.vercel.app">
+  <img src="pixemith.png" width="100%" alt="Pixemith: a pixel art and sprite animation studio in the browser" />
+</a>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🇬🇧 A pixel art studio that runs in your browser**
+
+Draw sprites with layers and frames, animate them on a timeline with onion skin and tags,
+then export a sprite sheet for **Phaser, Godot, Unity or CSS**. Nothing to install, and it's free.
+
+</td>
+<td width="50%" valign="top">
+
+**🇹🇷 Tarayıcıda çalışan bir piksel sanat stüdyosu**
+
+Katman ve karelerle sprite çizin, onion skin ve etiketlerle zaman çizelgesinde canlandırın,
+sonra **Phaser, Godot, Unity ya da CSS** için sprite sheet olarak dışa aktarın. Kurulum yok, ücretsiz.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://pixemith.vercel.app"><img src="https://img.shields.io/badge/Open%20the%20editor%20%C2%B7%20Edit%C3%B6r%C3%BC%20a%C3%A7-FF6B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the editor · Editörü aç" /></a>
+  <a href="https://pixemith-home.vercel.app"><img src="https://img.shields.io/badge/Website%20%C2%B7%20Site-Visit-6366F1?style=for-the-badge" alt="Website · Site" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/price-free%20%C2%B7%20%C3%BCcretsiz-2ea44f" alt="Free" />
+  <img src="https://img.shields.io/badge/runs%20in-the%20browser-0e75b6" alt="Runs in the browser" />
+  <img src="https://img.shields.io/badge/export-Aseprite%20JSON%20%C2%B7%20Godot%204%20%C2%B7%20Unity%20%C2%B7%20CSS-555" alt="Export: Aseprite JSON, Godot 4, Unity, CSS" />
+  <img src="https://img.shields.io/badge/English%20%7C%20T%C3%BCrk%C3%A7e-0e75b6" alt="English and Turkish" />
 </p>
 
 <br>
@@ -106,47 +147,6 @@ Verileriniz kendi bilgisayarınızda kalır: **hesap yok, abonelik yok, bulut yo
 
 <br>
 
-## 🎨 Pixemith
-
-<a href="https://pixemith.vercel.app">
-  <img src="pixemith.png" width="100%" alt="Pixemith: a pixel art and sprite animation studio in the browser" />
-</a>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🇬🇧 A pixel art studio that runs in your browser**
-
-Draw sprites with layers and frames, animate them on a timeline with onion skin and tags,
-then export a sprite sheet for **Phaser, Godot, Unity or CSS**. Nothing to install, and it's free.
-
-</td>
-<td width="50%" valign="top">
-
-**🇹🇷 Tarayıcıda çalışan bir piksel sanat stüdyosu**
-
-Katman ve karelerle sprite çizin, onion skin ve etiketlerle zaman çizelgesinde canlandırın,
-sonra **Phaser, Godot, Unity ya da CSS** için sprite sheet olarak dışa aktarın. Kurulum yok, ücretsiz.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://pixemith.vercel.app"><img src="https://img.shields.io/badge/Open%20the%20editor%20%C2%B7%20Edit%C3%B6r%C3%BC%20a%C3%A7-FF6B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the editor · Editörü aç" /></a>
-  <a href="https://pixemith-home.vercel.app"><img src="https://img.shields.io/badge/Website%20%C2%B7%20Site-Visit-6366F1?style=for-the-badge" alt="Website · Site" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/price-free%20%C2%B7%20%C3%BCcretsiz-2ea44f" alt="Free" />
-  <img src="https://img.shields.io/badge/runs%20in-the%20browser-0e75b6" alt="Runs in the browser" />
-  <img src="https://img.shields.io/badge/export-Aseprite%20JSON%20%C2%B7%20Godot%204%20%C2%B7%20Unity%20%C2%B7%20CSS-555" alt="Export: Aseprite JSON, Godot 4, Unity, CSS" />
-  <img src="https://img.shields.io/badge/English%20%7C%20T%C3%BCrk%C3%A7e-0e75b6" alt="English and Turkish" />
-</p>
-
-<br>
-
 ## 🦖 Fosil Tepesi
 
 <img src="fosil-tepesi.png" width="100%" alt="Fosil Tepesi: a pixel-art dinosaur farm game" />
@@ -187,8 +187,8 @@ bir Triceratops büyütün, ona binip vahşi doğayı keşfedin, balık tutun ve
 <td width="50%" valign="top">
 
 - 🎓 Software student from **Türkiye**
-- 🚚 Building **Truck TMS**, a free TMS for trucking
 - 🖌️ Making **Pixemith**, a pixel art studio for the web
+- 🚚 Building **Truck TMS**, a free TMS for trucking
 - 🎮 Making games with **C#** and **Unity**
 - 🎨 Pixel art and **Blender** in my free time
 - 💬 You can write to me in English or Turkish
@@ -197,8 +197,8 @@ bir Triceratops büyütün, ona binip vahşi doğayı keşfedin, balık tutun ve
 <td width="50%" valign="top">
 
 - 🎓 **Türkiye**'den bir yazılım öğrencisiyim
-- 🚚 Nakliye için ücretsiz bir TMS olan **Truck TMS**'i geliştiriyorum
 - 🖌️ Web için bir piksel sanat stüdyosu olan **Pixemith**'i yapıyorum
+- 🚚 Nakliye için ücretsiz bir TMS olan **Truck TMS**'i geliştiriyorum
 - 🎮 **C#** ve **Unity** ile oyun yapıyorum
 - 🎨 Boş zamanlarımda piksel sanat ve **Blender**
 - 💬 Bana Türkçe ya da İngilizce yazabilirsiniz
