@@ -22,7 +22,7 @@
 
 ## 🎨 Pixemith
 
-<a href="https://pixemith.vercel.app">
+<a href="https://app.pixemith.com">
   <img src="pixemith.png" width="100%" alt="Pixemith: a pixel art and sprite animation studio in the browser" />
 </a>
 
@@ -48,8 +48,8 @@ sonra **Phaser, Godot, Unity ya da CSS** için sprite sheet olarak dışa aktar�
 </table>
 
 <p align="center">
-  <a href="https://pixemith.vercel.app"><img src="https://img.shields.io/badge/Open%20the%20editor%20%C2%B7%20Edit%C3%B6r%C3%BC%20a%C3%A7-FF6B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the editor · Editörü aç" /></a>
-  <a href="https://pixemith-home.vercel.app"><img src="https://img.shields.io/badge/Website%20%C2%B7%20Site-Visit-6366F1?style=for-the-badge" alt="Website · Site" /></a>
+  <a href="https://app.pixemith.com"><img src="https://img.shields.io/badge/Open%20the%20editor%20%C2%B7%20Edit%C3%B6r%C3%BC%20a%C3%A7-FF6B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Open the editor · Editörü aç" /></a>
+  <a href="https://pixemith.com"><img src="https://img.shields.io/badge/Website%20%C2%B7%20Site-Visit-6366F1?style=for-the-badge" alt="Website · Site" /></a>
 </p>
 
 <p align="center">
