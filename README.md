@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=180&section=header&text=Arslan%20Eren&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Pixemith%20%C2%B7%20Truck%20TMS%20%C2%B7%20Python%20%C2%B7%20C%23%20%C2%B7%20JS%20%E2%80%94%20T%C3%BCrkiye&descSize=17&descAlignY=58" width="100%" alt="Arslan Eren" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Pixemith:+a+pixel-art+studio+in+your+browser;Pixemith:+taray%C4%B1c%C4%B1da+piksel+sanat+st%C3%BCdyosu;Free+tools+for+game+developers;Oyun+geli%C5%9Ftiricileri+i%C3%A7in+%C3%BCcretsiz+ara%C3%A7lar;Making+a+pixel-art+dinosaur+farm+game;Piksel+sanat+bir+dinozor+%C3%A7iftli%C4%9Fi+oyunu+yap%C4%B1yorum" alt="Pixemith: a pixel-art studio in your browser · Tarayıcıda piksel sanat stüdyosu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Pixemith:+a+pixel-art+studio+in+your+browser;Pixemith:+taray%C4%B1c%C4%B1da+piksel+sanat+st%C3%BCdyosu;Free+tools+for+game+developers;Oyun+geli%C5%9Ftiricileri+i%C3%A7in+%C3%BCcretsiz+ara%C3%A7lar;Pixemith+speaks+9+languages;Pixemith+9+dilde" alt="Pixemith: a pixel-art studio in your browser · Tarayıcıda piksel sanat stüdyosu" />
 </p>
 
 <p align="center">
   <a href="#-pixemith"><b>🎨 Pixemith</b></a> ·
   <a href="#-truck-tms"><b>🚚 Truck TMS</b></a> ·
-  <a href="#-fosil-tepesi"><b>🦖 Fosil Tepesi</b></a> ·
   <a href="#-about-me--hakkımda"><b>👋 About · Hakkımda</b></a> ·
   <a href="#-get-in-touch--bana-ulaşın"><b>💬 Contact · Bana ulaşın</b></a>
 </p>
@@ -47,11 +46,12 @@ sonra **Phaser, Godot, Unity ya da CSS** için sprite sheet olarak dışa aktar�
 </tr>
 </table>
 
-<p align="center"><b>🆕 Pixemith v1.3</b> · round brush · rotate &amp; scale · canvas size / crop / trim · export each animation separately<br/><sub>yuvarlak fırça · döndür &amp; ölçekle · tuval boyutu / kırp · her animasyonu ayrı dışa aktar</sub></p>
+<p align="center"><b>🆕 Pixemith v1.3.1</b> · 9 languages · round brush · rotate &amp; scale · canvas size / crop / trim · export each animation separately<br/><sub>9 dil · yuvarlak fırça · döndür &amp; ölçekle · tuval boyutu / kırp · her animasyonu ayrı dışa aktar</sub></p>
 
 <p align="center">
   <a href="https://app.pixemith.com"><img src="https://img.shields.io/badge/Open%20the%20editor%20%C2%B7%20Edit%C3%B6r%C3%BC%20a%C3%A7-FF6B2B?style=for-the-badge" alt="Open the editor · Editörü aç" /></a>
   <a href="https://pixemith.com"><img src="https://img.shields.io/badge/Website%20%C2%B7%20Site-Visit-6366F1?style=for-the-badge" alt="Website · Site" /></a>
+  <a href="https://github.com/ArslanEren-Dev/pixemith"><img src="https://img.shields.io/badge/Showcase-GitHub-24292f?style=for-the-badge&logo=github" alt="Pixemith showcase" /></a>
   <a href="https://arslaneren-dev.itch.io/pixemith"><img src="https://img.shields.io/badge/itch.io-Pixemith-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Pixemith on itch.io" /></a>
 </p>
 
@@ -150,38 +150,6 @@ Verileriniz kendi bilgisayarınızda kalır: **hesap yok, abonelik yok, bulut yo
 
 <br>
 
-## 🦖 Fosil Tepesi
-
-<img src="fosil-tepesi.png" width="100%" alt="Fosil Tepesi: a pixel-art dinosaur farm game" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🇬🇧 Coming soon: a cozy dinosaur farm game**
-
-A pixel-art farming and adventure game made in Unity. Grow crops through four seasons,
-raise a Triceratops, ride it into the wild, fish in the lakes and craft everything yourself.
-
-</td>
-<td width="50%" valign="top">
-
-**🇹🇷 Yakında: dinozorlu bir çiftlik oyunu**
-
-Unity ile yapılan piksel sanat bir çiftlik ve macera oyunu. Dört mevsim boyunca ekin yetiştirin,
-bir Triceratops büyütün, ona binip vahşi doğayı keşfedin, balık tutun ve her şeyi kendiniz üretin.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in%20development%20%C2%B7%20geli%C5%9Ftiriliyor-f59e0b?style=flat" alt="In development" />
-  <img src="https://img.shields.io/badge/engine-Unity%206-222?style=flat&logo=unity" alt="Unity 6" />
-  <a href="https://github.com/ArslanEren-Dev?tab=followers"><img src="https://img.shields.io/badge/Follow%20for%20updates%20%C2%B7%20Haberdar%20ol-0e75b6?style=flat&logo=github" alt="Follow for updates" /></a>
-</p>
-
-<br>
 
 ## 👋 About me · Hakkımda
 
